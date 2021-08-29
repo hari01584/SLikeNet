@@ -1,0 +1,1 @@
+g++ main.cpp -ISource -I../../include/raknet -I../../DependentExtensions/miniupnpc-1.6.20120410/ -L../../Lib/DLL/ -lRakNetDLL -lminiupnpc -I../CloudServer ../CloudServer/CloudServerHelper.cpp
